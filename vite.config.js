@@ -8,4 +8,8 @@ export default defineConfig({
     globals: true,
     environment: 'jsdom',
   },
+  esbuild: {
+    loader: 'jsx',   // Ensuring JSX loader
+    include: /\.jsx?$/,  // Apply the JSX loader to .js and .jsx files
+  },
 })
