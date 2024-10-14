@@ -18,7 +18,7 @@ export default function Features() {
                 Resume Analysis
               </Typography>
               <Typography>
-                Optimize your resume for every job application using ATS insights.
+                Optimize your resume and cover letter for every job application using ATS insights.
               </Typography>
             </CardContent>
           </Card>
@@ -33,7 +33,7 @@ export default function Features() {
                 Skill Gap Analysis
               </Typography>
               <Typography>
-                Identify and fill missing skills with personalized course recommendations.
+                Identify and fill missing skills with personalized course recommendations from your university and other online resources.
               </Typography>
             </CardContent>
           </Card>
@@ -48,7 +48,7 @@ export default function Features() {
                 Mock Interviews
               </Typography>
               <Typography>
-                Prepare for interviews with real-time feedback on answers and body language.
+                Ace coding and system design interviews by taking mocks with our AI
               </Typography>
             </CardContent>
           </Card>
